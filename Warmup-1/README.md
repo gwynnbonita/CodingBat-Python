@@ -1,0 +1,13 @@
+### Warmup-1
+- [x] [sleep_in](https://github.com/gwynnbonita/CodingBat-Python/blob/main/Warmup-1/sleep_in.py)
+- [x] [monkey_trouble](https://github.com/gwynnbonita/CodingBat-Python/blob/main/Warmup-1/monkey_trouble.py)
+- [x] [sum_double](https://github.com/gwynnbonita/CodingBat-Python/blob/main/Warmup-1/sum_double.py)
+- [x] [diff21](https://github.com/gwynnbonita/CodingBat-Python/blob/main/Warmup-1/diff21.py)
+- [x] [parrot_trouble](https://github.com/gwynnbonita/CodingBat-Python/blob/main/Warmup-1/parrot_trouble.py)
+- [x] [makes10](https://github.com/gwynnbonita/CodingBat-Python/blob/main/Warmup-1/makes10.py)
+- [ ] near_hundred
+- [x] [pos_neg](https://github.com/gwynnbonita/CodingBat-Python/blob/main/Warmup-1/pos_neg.py)
+- [ ] not_string
+- [ ] missing_char
+- [ ] front_back
+- [ ] front3
